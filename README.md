@@ -16,7 +16,7 @@ Understand which payment methods customers use most.
 
 ## Dataset
 
-Records: 99,457 customers
+Records: 99,457 transaction records, representing 89,370 distinct customers.
 
 Malls: 10
 
